@@ -1,0 +1,19 @@
+.telegram-field {
+    width: 100%;
+    max-width: 540px;
+    height: 200px;
+    background: white;
+    border: 1px solid #0085ba;
+    overflow: auto;
+    padding: 10px;
+    border-left-width: 10px;
+    margin-bottom: 20px;
+}
+
+.telegram-window>p {
+    font-size: 120%;
+}
+
+textarea.regular-text.code.pt-textarea {
+    min-height: 100px;
+}

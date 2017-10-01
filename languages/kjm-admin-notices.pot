@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KJM Admin Notices 1.0.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-15 21:17-0500\n"
+"PO-Revision-Date: 2016-12-15 21:18-0500\n"
+"Last-Translator: Marc-Antoine Minville <traductions@kajoom.org>\n"
+"Language-Team: Marc-Antoine Minville <traduction@kajoom.ca>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;esc_attr_e;_x;_n_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../includes/models/post-type-kjm_notice.php:10
+#: ../includes/models/post-type-kjm_notice.php:22
+msgid "Notices"
+msgstr ""
+
+#: ../includes/models/post-type-kjm_notice.php:11
+msgid "Notice"
+msgstr ""
+
+#: ../includes/models/post-type-kjm_notice.php:12
+#: ../includes/models/post-type-kjm_notice.php:13
+msgid "Add Notice"
+msgstr ""
+
+#: ../includes/models/post-type-kjm_notice.php:14
+#: ../admin/class-kjm-admin-notices-admin.php:639
+msgid "Edit Notice"
+msgstr ""
+
+#: ../includes/models/post-type-kjm_notice.php:15
+msgid "New Notice"
+msgstr ""
+
+#: ../includes/models/post-type-kjm_notice.php:16
+msgid "All Notices"
+msgstr ""
+
+#: ../includes/models/post-type-kjm_notice.php:17
+msgid "View Notice"
+msgstr ""
+
+#: ../includes/models/post-type-kjm_notice.php:18
+msgid "Search Notices"
+msgstr ""
+
+#: ../includes/models/post-type-kjm_notice.php:19
+msgid "No Notice found"
+msgstr ""
+
+#: ../includes/models/post-type-kjm_notice.php:20
+msgid "No Notice found in trash"
+msgstr ""
+
+#: ../includes/models/post-type-kjm_notice.php:27
+msgid "Contains all Notices and their related data."
+msgstr ""
+
+#: ../includes/models/strings-settings.php:11
+msgid "KJM Admin Notices"
+msgstr ""
+
+#: ../includes/models/strings-settings.php:12
+msgid "Check to activate KJM Admin Notices."
+msgstr ""
+
+#: ../includes/models/strings-settings.php:14
+msgid "Notice Post Type"
+msgstr ""
+
+#: ../includes/models/strings-settings.php:15
+msgid "Check to activate Notice Post Type."
+msgstr ""
+
+#: ../includes/models/strings-settings.php:17
+#: ../admin/class-kjm-admin-notices-admin.php:1064
+msgid "Send Email"
+msgstr ""
+
+#: ../includes/models/strings-settings.php:18
+msgid "Check to send email to users on publish."
+msgstr ""
+
+#: ../includes/models/strings-settings.php:20
+msgid "Email From"
+msgstr ""
+
+#: ../includes/models/strings-settings.php:21
+msgid "Leave empty for emails sent by \"wordpress@yourdomain.com\"."
+msgstr ""
+
+#: ../includes/models/strings-settings.php:23
+msgid "Email From Name"
+msgstr ""
+
+#: ../includes/models/strings-settings.php:24
+msgid "Leave empty for emails sent from \"WordPress\"."
+msgstr ""
+
+#: ../includes/models/strings-settings.php:26
+msgid "Allow Comments"
+msgstr ""
+
+#: ../includes/models/strings-settings.php:27
+msgid "Check to activate comments system."
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_cat.php:10
+#: ../includes/models/taxonomy-kjm_notice_cat.php:20
+#: ../includes/models/taxonomy-kjm_notice_cat.php:26
+msgid "Notice Cats"
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_cat.php:11
+msgid "Notice Cat"
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_cat.php:12
+msgid "Search Notice Cat"
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_cat.php:13
+msgid "All Notice Cats"
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_cat.php:14
+msgid "Parent Notice Cat"
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_cat.php:15
+msgid "Parent Notice Cat:"
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_cat.php:16
+msgid "Edit Notice Cat"
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_cat.php:17
+msgid "Update Notice Cat"
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_cat.php:18
+msgid "Add New Notice Cat"
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_cat.php:19
+msgid "New Notice Cat"
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_tag.php:10
+#: ../includes/models/taxonomy-kjm_notice_tag.php:20
+#: ../includes/models/taxonomy-kjm_notice_tag.php:26
+msgid "Notices Tags"
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_tag.php:11
+msgid "Notice Tag"
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_tag.php:12
+msgid "Search Notice Tags"
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_tag.php:13
+msgid "All Notices Tags"
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_tag.php:14
+msgid "Parent Notice Tag"
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_tag.php:15
+msgid "Parent Notice Tag:"
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_tag.php:16
+msgid "Edit Notice Tag"
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_tag.php:17
+msgid "Update Notice Tag"
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_tag.php:18
+msgid "Add New Notice Tag"
+msgstr ""
+
+#: ../includes/models/taxonomy-kjm_notice_tag.php:19
+msgid "New Notice Tag Name"
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:376
+msgid "KJM Admin Notices settings saved."
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:379
+msgid "KJM Admin Notices settings saving failed!."
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:406
+msgid "Failed security check on KJM Admin Notices Settings save action."
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:407
+msgid "Failed security check!"
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:431
+msgid "Settings"
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:620
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:623
+msgid "Thanks, Got it."
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:641
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:641
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:763
+msgid "WordPress"
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:779
+msgid "This notification has been sent by [kjm_website_domain]. "
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:780
+msgid "Address to connect to your site:"
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:780
+msgid "Login"
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:882
+msgid "Sent"
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:1027
+msgid "All"
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:1068
+msgid "Send a copy to Admin"
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:1084
+msgid "Hide Title"
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:1088
+msgid "Hide Metas (author and date)"
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:1092
+msgid "Hide Dismiss Link"
+msgstr ""
+
+#: ../admin/class-kjm-admin-notices-admin.php:1142
+msgid "no"
+msgstr ""
+
+#: ../admin/partials/kjm-admin-notices-admin-settings-display.php:19
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../admin/partials/kjm-admin-notices-admin-settings-display.php:36
+msgid "KJM Admin Notices Settings"
+msgstr ""
+
+#: ../admin/partials/kjm-admin-notices-admin-settings-display.php:40
+msgid "Manage KJM Admin Notices"
+msgstr ""
+
+#: ../admin/partials/kjm-admin-notices-admin-settings-display.php:56
+msgid "Save Changes"
+msgstr ""
